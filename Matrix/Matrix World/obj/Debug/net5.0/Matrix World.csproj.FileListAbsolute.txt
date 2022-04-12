@@ -1,0 +1,16 @@
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.exe
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.deps.json
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.runtimeconfig.json
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.runtimeconfig.dev.json
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.dll
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\bin\Debug\net5.0\Matrix World.pdb
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.csproj.AssemblyReference.cache
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.AssemblyInfoInputs.cache
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.AssemblyInfo.cs
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.csproj.CoreCompileInputs.cache
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.dll
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\refint\Matrix World.dll
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.pdb
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\Matrix World.genruntimeconfig.cache
+C:\Users\talib\source\repos\Matrix\Matrix\Matrix World\obj\Debug\net5.0\ref\Matrix World.dll
