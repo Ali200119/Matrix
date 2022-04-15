@@ -8,24 +8,22 @@ namespace Matrix_World
         {
             Console.ForegroundColor = ConsoleColor.Green;
 
-            Console.Write("Enter your name: ");
             string name = Console.ReadLine();
 
             Console.Clear();
-
-            Console.WriteLine($"Wake up, {name}...");
-
+            Console.WriteLine($"Wake up {name}...");
+            
+            Console.ReadKey();
             Console.Clear();
+            Console.WriteLine("The matrix has you...");
 
-            Console.WriteLine("The Matrix has you...");
-
+            Console.ReadKey();
             Console.Clear();
-
-            Console.WriteLine("Follow the white rabbit.");
-
+            Console.WriteLine("Follow the White Rabbit...");
+            
+            Console.ReadKey();
             Console.Clear();
-
-            Console.WriteLine($"Knock, knock, {name}.");
+            Console.WriteLine($"Knok Knok, {name}");
         }
     }
 }
